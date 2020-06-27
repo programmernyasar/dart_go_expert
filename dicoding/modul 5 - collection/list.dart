@@ -55,19 +55,5 @@ for(int i=0;i<umurOrangtua.length;i++){
 biodata.forEach((s) => print(s));
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   
 }
